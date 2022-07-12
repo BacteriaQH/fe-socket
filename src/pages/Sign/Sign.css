@@ -1,0 +1,9 @@
+.img-drop {
+    height: 40vmin;
+    pointer-events: none;
+    z-index: 999999;
+}
+
+.file-drag {
+    z-index: -999999;
+}
